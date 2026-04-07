@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Multi-Agent AI",
+  "description": "A sophisticated multi-agent system for managing tasks, schedules, and knowledge using Gemini and Firestore.",
+  "requestFramePermissions": []
+}
